@@ -8,7 +8,7 @@ from streamlit_gsheets import GSheetsConnection
 st.set_page_config(page_title="Portal de Relatórios Diários ODS", layout="wide")
 
 # Substitua pela URL da SUA planilha do Google Sheets
-PLANILHA_URL = "https://docs.google.com/spreadsheets/d/1aNCwIHQteT-_3NzbbNf_bO5sj_nhT0zHFlZhJlo2FdY"
+PLANILHA_URL = "https://docs.google.com/spreadsheets/d/1aNCwIHQteT-_3NzbbNf_bO5sj_nhT0zHFlZhJlo2FdY/edit?usp=sharing"
 
 # Definições operacionais padrão
 equipamentos = ["Unidade ODS 1", "Unidade ODS 2", "Unidade ODS 3", "Unidade ODS 4", "Unidade ODS 5"]
